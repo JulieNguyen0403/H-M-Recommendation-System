@@ -6,7 +6,7 @@
 - Our team have identified the problem below and come up with a solution to help improve and solve these problems.
 <br>
 2. Identified problem:<br>
-  - Problem is to predict what articles each customer will purchase in the 7-day period immediately after the training data ends.
+  - Problem is to predict what articles each customer will purchase in the 7-day period immediately after the training data ends.<br>
 <br>
 3. Business values and importance of the problem:<br>
 - Enhancing the shopping experience <br>
