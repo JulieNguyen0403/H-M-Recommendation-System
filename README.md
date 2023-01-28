@@ -1,4 +1,4 @@
-# Identified problems, business values, and the importance of the problems.
+# Identified problems, business values, and the importance of the problems.<br>
 1. Background of the company:<br>
 H & M is a multinational clothing company that was founded in 1947. <br>
 H&M currently has approximately 4,850 stores and 53 online marketplaces. <br>
@@ -13,7 +13,7 @@ Enhancing the shopping experience <br>
 Boost product recommendations <br>
 Help customers make the right purchase choices → reduce returns → positive implications for sustainability <br>
 
-# Data Description
+# Data Description<br>
 Articles.csv: detailed metadata for each article_id available for purchase <br>
 Article_id (categorical)<br>
 Product_code (numeric)<br>
@@ -34,7 +34,7 @@ Club_member_status (category: Active, Pre-Create, Other)<br>
 Fashion_news_frequency (category: None, Regularly, Other) <br>
 age (numeric)<br><br>
 Postal_code (numeric)<br>
-<br>
+
 Transactions_train.csv:  the training data, consisting of the purchases each customer for each date, as well as additional information.<br>
 T_dat(category: date of the transaction)<br>
 Customer_id(numeric: each customer has a unique customer_id num)<br>
