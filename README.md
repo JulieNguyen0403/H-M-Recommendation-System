@@ -32,7 +32,7 @@ FN (numeric)<br>
 Active (numeric)<br>
 Club_member_status (category: Active, Pre-Create, Other)<br>
 Fashion_news_frequency (category: None, Regularly, Other) <br>
-age (numeric)<br><br>
+age (numeric)<br>
 Postal_code(numeric)<br>
 
 * Transactions_train.csv:  the training data, consisting of the purchases each customer for each date, as well as additional information.<br>
